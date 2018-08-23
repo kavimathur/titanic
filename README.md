@@ -1,7 +1,5 @@
 # titanic
 
-I used this notebook as part of a live demo of Jupyter and using machine learning with Python.
+I used this notebook as part of a live demo of Jupyter and machine learning with Python. It delves into the Kaggle dataset on the Titanic disaster: https://www.kaggle.com/c/titanic
 
-Use the titanicML one
-
-Download the test.csv and train.csv files to the same directory before running the jupyter notebook locally
+Open the TitanicML.ipynb file
